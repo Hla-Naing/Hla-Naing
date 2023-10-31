@@ -1,5 +1,10 @@
 ### Hi there 👋
+<h1 align="center">Hi 👋, I'm Hla</h1>
+<h3 align="center">I'm interested to work on app development currently.</h3>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 <!--
 **Hla-Naing/Hla-Naing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

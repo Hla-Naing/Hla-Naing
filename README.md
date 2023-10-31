@@ -1,9 +1,9 @@
-<h3 align="center">Hi 👋, I'm Hla</h3>
+<h3>Hi 👋,I'm Hla </h3>
 <h5>💠 I'm interested in App Developement.</h5>
+<h5>🪄 I'm currently a Computer Science Sophomore at Ohlone College.</h5> 
+<h5>📫 Contact me through email: hlathirinaing@gmail.com</h5>
+<h5>📌 My site link [https://hlathirinaing.wixsite.com/my-site-1](https://hlathirinaing.wixsite.com/my-site-1)</h5>
 
-- 🪄 I'm currently a Computer Science Sophomore at Ohlone College.
-- 📫 Contact me through email: hlathirinaing@gmail.com
-- 📌 My site link [https://hlathirinaing.wixsite.com/my-site-1](https://hlathirinaing.wixsite.com/my-site-1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

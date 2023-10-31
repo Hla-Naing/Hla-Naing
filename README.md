@@ -1,5 +1,6 @@
 <h3 align="center">Hi 👋, I'm Hla</h3>
-- 💠 I'm interested in App Developement.
+<h5>💠 I'm interested in App Developement.</h5>
+
 - 🪄 I'm currently a Computer Science Sophomore at Ohlone College.
 - 📫 Contact me through email: hlathirinaing@gmail.com
 - 📌 My site link [https://hlathirinaing.wixsite.com/my-site-1](https://hlathirinaing.wixsite.com/my-site-1)

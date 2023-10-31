@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hla</h1>
+<h3 align="center">Hi 👋, I'm Hla</h3>
 - 💠 I'm interested in App Developement.
 - 🪄 I'm currently a Computer Science Sophomore at Ohlone College.
 - 📫 Contact me through email: hlathirinaing@gmail.com

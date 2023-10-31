@@ -2,11 +2,13 @@
 <h5>💠 I'm interested in App Developement.</h5>
 <h5>🪄 I'm currently a Computer Science Sophomore at Ohlone College.</h5> 
 <h5>📫 Contact me through email: hlathirinaing@gmail.com</h5>
-<h5>📌 My site link [https://hlathirinaing.wixsite.com/my-site-1](https://hlathirinaing.wixsite.com/my-site-1)</h5>
+<h5>📌 My site link https://hlathirinaing.wixsite.com/my-site-1 </h5>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+
+<h4 align="left">Connect with me:</h4>
+<p align="left">  
 <a href="https://linkedin.com/in/hla naing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hla naing" height="30" width="40" /></a>
 <a href="https://instagram.com/maria_thiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maria_thiri" height="30" width="40" /></a>
 </p>

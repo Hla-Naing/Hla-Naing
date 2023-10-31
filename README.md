@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hla</h1>
-- 📫 How to reach me **hlathirinaing@gmail.com**
-
-- 📌 My site [https://hlathirinaing.wixsite.com/my-site-1](https://hlathirinaing.wixsite.com/my-site-1)
+- 💠 I'm interested in App Developement.
+- 🪄 I'm currently a Computer Science Sophomore at Ohlone College.
+- 📫 Contact me through email: hlathirinaing@gmail.com
+- 📌 My site link [https://hlathirinaing.wixsite.com/my-site-1](https://hlathirinaing.wixsite.com/my-site-1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
